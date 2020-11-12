@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+  }
+  
+  h1 {
+    text-shadow: 2px 2px #ff0000;
+  }
+  
+  h2 {
+    text-shadow: 2px 2px teal;
+  }
+  
+  a {
+    color: red;
+  }
+  
+  ul {
+    border-style: inset;
+    padding: 20px;
+    width: 20%;
+  }
